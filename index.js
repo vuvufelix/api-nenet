@@ -1,0 +1,94 @@
+// Sapato da louboutin
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0eQAHAELTX05AC3FP0gElx6jd5Achq9-JaA&s.jpg.jpg
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaejj5vSobpEs6C0hDCznet0XC8nHb_4CBGVIN3fh_FFy09EvzFn9MmBB8OTMBk3MFMZk&usqp=CAU.jpg.jpg
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrJ6lsQVce2473Vb2FmaixEUvl7n89oU4wITQe7sc2U8rQqsALpDOKSBs5OPL3u3ptEbU&usqp=CAU.jpg
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR89G0R9LBWJQvEy6keSjPKdAe9EeHvTpoOtgzhV3eio7UZ43HaoTZqyqR9jeJDmBk4bok&usqp=CAU.jpg
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVT4IiPxGWqWjvJRYX-Z2SGxx-tnMQLZHkRm40CU-HMEAZ4qu-Nmwb184aGqwRwtCYH7w&usqp=CAU.jpg
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi87uZ3k8pRQY9ywK6raxSjBCVAP0kAhUc_yDKeWoqNlTGKzIOilobOE2DmQVmU5LQ9EM&usqp=CAU.jpg
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1BEHuZwkzkl5ACO1ClLg9JrHMOFLivC9SOQ&s.jpg
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwpOnnl7a6NLUqYgwX1YEDFBh3hFqyjLUJmf93oVgDdr6PNnWySAW9kkfDl2-wpN0Fe0c&usqp=CAU.jpg
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeu42o9svq951jEZXT_9vSyo2tlTKczj_gORw7H5-5mw6lXeeuL80Gp_wN9kZD7WNjHd0&usqp=CAU.jpg
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFI3xIBz4x3E-sGv3u04Gpt8ri76WeMR5k7XEtKr7uPiuFjLcaSqYYcxtI-0myNsT5PI4&usqp=CAU.jpg
+
+// sapato loro piana
+https://media.istockphoto.com/id/486788621/photo/beige-suede-mens-shoes.jpg?s=612x612&w=0&k=20&c=U9amNfc_VA7cwwJf3LrsEvXjdaWxb3srCjUt9gM0Yg0=.jpg
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT70nxgZwBQlZXfzViLxze8hYL4yiWnNs_3ij3r6aM0iG3gVYA_EMnyy-qkvr6_boCShxc&usqp=CAU.jpg
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6RZJe19PIIUy-_dwFX_tgBAnznrUBv_8GbR-_ByohTl32myQTAR2FhcqpuGu4JNCNom0&usqp=CAU.jpg
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe-R3xCM88w1jK7DuMo6sBWHaVxQ0dV2QEziZgU_K4NdUxTzd8w7iex09nDovJ8V8GvVc&usqp=CAU.jpg
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq-wvKPiYzUalq-lfEr7zc3TUbvN4LCAjrlhhJkLQCJaChryodpzUFjKOqPg1guZHXx9I&usqp=CAU.jpg
+
+// sapato da louis vuitton
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoAEEdpKMErlsLkzUfcCjIG3DxFd1irKRofQ&s.jpg
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtKWMdzhG3b50XTMXUmah9SRkH2Rc0d53SMV5Xq1golFFq_6aZ6ixF5mKIeqQRyNspDRQ&usqp=CAU.jpg
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQniHiUVlrXzsif4PdMk9wFtlcnI692GNDC2JttPloKshJE9fncC3SLRYvpFgw2Wasp65E&usqp=CAU.jpg
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkRSr-yGPaHMIszny9PszryVdOUp1odDfQxw1iPl6mQ130zLc27PE_JHxUwXS72_Q8hoo&usqp=CAU.jpg
+https://br.louisvuitton.com/images/is/image/lv/1/PP_VP_M/louis-vuitton--BPLL1MGC20_PM2_Front%20view.jpg?wid=750&hei=870.jpg
+https://br.louisvuitton.com/images/is/image/lv/1/PP_VP_M/louis-vuitton--BSEL2XTXMA_PM2_Front%20view.jpg?wid=750&hei=870.jpg
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSU0oxG2N0sDYKZxLhJmX17wfiPCd8m-Dr4UsTdExvsf50c83CjsCvt4_yn4Mf2gEO7kX8&usqp=CAU.jpg
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHKElXu9awLNw21N-ZfWjvA8cvo7NKCS2XKm2pithhbzh22aYzZjzJgOBPAgjDLSQn7rI&usqp=CAU.jpg
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbZTRcJrD_fjGKqO8toXLAedEOLI-plWq63Cakfo4NfeiDOTC4t41aMC8Mc9ItSj4TKUM&usqp=CAU.jpg
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-zEe4KRAKuUQ6NfzH_YsiHvPfpkYXOs9M6g&s.jpg
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlGKXthZG7ynwVPkU_dABa6i5ErDLv84bQ44uAuwYQdgmVbFT1QdA_A6XxOBV6Be0NPfc&usqp=CAU.jpg
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnT-4hahVfeqTReJe1xFSE8yu4jyohUNXE4X4pbQkMBQCj7t36eonculcOU0vOfbt4moA&usqp=CAU.jpg
+
+// Camisetas
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRS3WWZEODTa5tLfiGIrX8TQ3m4Vqeg_F_6DA&s.jpg
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz8IdJu9e-WxO8-UMFIYcouWm25QZFMiSDhw&s.jpg
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxmjope8aaI5P_sfQpYEVhroiilLbacA43pQ&s.jpg
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDFJywwoyOlTfJnOMyO8demuBLNJl2ddvV6Q&s.jpg
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhuKC9hSwDJclq6c7jnBt8U9zpE0PvMYkLYw&s.jpg
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT-5SmqsMzzqeEtJbtZfqtbygv1tSj-sQVbA&s.jpg
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaFFqdHoBNA09FtDWwLcxZoixJi_tlr7FD9Q&s.jpg
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy1CzB0jWCYkT-RCrFAZzwBpx1y4dwQhZ59g&s.jpg
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWrSXVtrA3E2UXVW8eJaIUa6syYvlB3Y_Kkw&s.jpg
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuF_mQxrxDSgZNOJOx6sJZSoXYoKC_RHCA4Q&s.jpg
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbFD_vHsvDAGG9JtdQ-WM44SYfVpnWJufRvA&s.jpg
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2pWOiaus7ZbZmdIsUQE9zzcsJYQ3TxgvyFQ&s.jpg
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrtJuAvVo3aMgNyVKC8L3E3qEVJCT7jftiXw&s.jpg
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQs4k10qI8tQ2WWlVXMBD3JCqbH2C5zYhaNlA&s.jpg
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdmOn8L9DYVSD9K6iA-DFfS3gdBc6mXesEpg&s.jpg
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7zin_HqSVlACVAaAw6uAR1LkY7zzsV7Krjw&s.jpg
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxqRBVPx2HjDIYODX9B2uYmvnKm7NlR6VJ8A&s.jpg
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCnyVLaY8hacDv5v85rNgPXb0lNQJiftnFYQ&s.jpg
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkmuIC37g5W7PHyt4GJ-MzHZml-lmUnJLRgg&s.jpg
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgPr8147X_mOXNnoU0KBuGIYnsJEmjmjkFxA&s.jpg
+
+// Ténis Nike
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTL9RljuvhRqLY4NAHpPBizQB4sEmpFuS3E2w&s.jpg
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrI0EuWV90t9gpMGMZPopZtZEXw7K93I-hHMLzewQkimQJKnD592QD7SM9F7sYLMxBYb8&usqp=CAU.jpg
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1qxs5MXexfasJ1SRrY4r8Ap8q3rOAibjFig&s.jpg
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyKs9SblvANMPQKyZej_xyNbpqHl-AGW-e7Mc-TuYYi38ypCtuT21CXFuB-wgvWQkO_aU&usqp=CAU.jpg
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgawVukvj6hmYWZ7TqfEVpBigJm1Oj9dlZ8w&s.jpg
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy3goTb-XXI97un2Q_j1nVrAEhWISAv0WzXLh2WAFYoxqVPd3noffaXNIPtS4uM17xVHY&usqp=CAU.jpg
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfCbgp52QDbGidyY-OjtMYH59q8db0NHSi3yGtaTP28M9S8ZSh3_AshHnxYQ3jz4C7TWs&usqp=CAU.jpg
+https://live.staticflickr.com/5013/5558674587_84864fcd62_w.jpg.jpg
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt4JktIHXP5Lo71Pu9wpNMZ74Wv0HsfFeLRN1p2nQVEM2HEVihJ3CF03lTwJibyvD1NtA&usqp=CAU.jpg
+
+// Ténis adidas
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGjhHyzihgQ48CZVu13VR1NzRcYQA1V3kHrw&s.jpg
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQf09MAnXt4LneuwzI6AbJ4cpDaykRXQ10DGQ&s.jpg
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuQFyL2tLMzW8s6i0sea-DHJVN-wMul1Cfeg&s.jpg
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnlFy53E9Ms_g-EAC0ROUCxPc-YxSQ5SDO0A&s.jpg
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTj1Wf7cTi-qjSKxPQEsko1uCmEm2BxrarfFQ&s.jpg
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFPxqsxRDFC183ERRzp6TFLigP3ww0abPyb7EwO_NwDaKUVYYRKe362mX_VdX69DXpVwg&usqp=CAU.jpg
+
+// bolsa prada
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvcdPt-3NNAl8T56HkMeFow2C6231s5zFPFx94CrIRMUvKGOGOBx0APjva6ilmtu7_aXM&usqp=CAU.jpg
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjeRONxKS9AMA31Ny7hLxUVLDxoWYPsOsgMXYiguOLa5hEQ7dYBhWOF4cwKyyqPg0ARpA&usqp=CAU.jpg
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSk2r83z6sprFeAUyvPxW11lPgufYgHPeXyog&s.jpg
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSet7oZAQttIJpDXfz5M8NTdDLFGq-wD7pCYQcKQzO5FrIfjz_EOHVu38K8UA8HzPmHv4s&usqp=CAU.jpg
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4K6hkggCemkxvpHKw5q9MNpaulcCCzhuLYmB2tUDkERwHXB2973sCAt2RabrCZ2d80Bk&usqp=CAU.jpg
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7aGFsaXKFYlE5BFjGRZrNjIKq3PcEQwWWcQ&s.jpg
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8jTg5rNAHAIxIb9soWLIiM4nXJY5g7J_Klff0S0EMOIKnxw6bHzk4CvcM7tWeK8_A1Xw&usqp=CAU.jpg
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMHEWFDCNZPdAnHLyZvq5EeJUX9-hvKKI-Ob7LStOzH6kG0xD9jI7iwo2GZkqott7kDwA&usqp=CAU.jpg
+
+// bolsa lacoste
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSavYkLY96LJeTbHN0gzbdM7YhFFxfxBSO7cw&s.jpg
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5VlvQ3uWJALXp8r03cwDY7sgvoTNsogPvb0IL6y9yIyT6EBOsizaO0dsIZfdZgFAVnEc&usqp=CAU.jpg
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT0GjJRPz-Anvc7lm1fc_VvTCVsmrcZn8nGO7hzo2UE7lBLznqC0Ebgw_bbS9zmKOATj0&usqp=CAU.jpg
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqLnFNF-J3-inDpvBQLygt5_MAnYM11c9h86uQP-t2NUEBSQhjpskxW50qFmUz0hwXDpc&usqp=CAU.jpg
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbXszI8OYFUw6cUgFvyTeRD0jrQTJuUZ-QbalOWRNx0u2sXAHHX2dgwI1Ivxo47XHQMYU&usqp=CAU.jpg
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkOfSL3KT3dpxqPrteT9lWD77FUuhTdmmBx6zTmuPXn-PLE5R7ZH9jTI8vrWatlrzmR8k&usqp=CAU.jpg
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQi0_PUQdW7lA6IaVK3rEDwJE51g8iKfWHJ5pu5HGZUxaPpM32q2c8l4YCw_rSKDmyP8r8&usqp=CAU.jpg
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT09Td2IHnUl-4dyv2GJdt9KvwlLM64C8ssWPgxVj-gqzXdloWSNGhymo6V63GuemW-zKo&usqp=CAU.jpg
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUnJbzTMlzA3Qq8xCKqZyuhYzrdf_o3X9wtSL_4n1Jr4INslQDpKR0PalVr6BLNHbEFC0&usqp=CAU.jpg
