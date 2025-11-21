@@ -9,6 +9,7 @@ class App {
         this.server = express();
         this.middleware();
         this.routes();
+        this.Server();
     }
 
     routes() {
@@ -19,6 +20,10 @@ class App {
         this.server.use(express.json());
         this.server.use(cors());
     }
+
+    Server() {
+        this.server.listen(process.env.DB_PORT, () => console.log("SERVIDOR RODANDO!"));
+    }
 }
 
-export default new App().server;
+new App();
