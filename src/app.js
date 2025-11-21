@@ -3,13 +3,13 @@ dotenv.config();
 import express from "express";
 import router from "./routes.js";
 import cors from "cors";
+import ServerlessHttp from "serverless-http";
 
 class App {
     constructor() {
         this.server = express();
         this.middleware();
         this.routes();
-        this.Server();
     }
 
     routes() {
@@ -20,10 +20,8 @@ class App {
         this.server.use(express.json());
         this.server.use(cors());
     }
-
-    Server() {
-        this.server.listen(process.env.DB_PORT, () => console.log("SERVIDOR RODANDO!"));
-    }
 }
 
-new App().Server();
+const box = new App().server;
+
+export const handler = ServerlessHttp(box);

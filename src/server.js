@@ -1,3 +1,3 @@
-import app from "./app.js";
+import { box } from "./app.js";
 
-app.listen(3306, () => console.log("SERVIDOR RODANDO NA PORTA 8080"));
+box.listen(3306, () => console.log("SERVIDOR RODANDO NA PORTA 8080"));
