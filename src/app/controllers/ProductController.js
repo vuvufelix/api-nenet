@@ -1,14 +1,15 @@
 import Products from "../../models/products.js";
 import Stripe from "stripe";
 
-const stripe = new Stripe(process.env.STRIPE_SECRET_KEY);
-
 class ProductController {
-
+    
     async checkoutSession(req, res) {
+
+        const stripe = new Stripe(process.env.STRIPE_SECRET_KEY);
+
         try {
             const { AllProducts } = req.body;
-
+            
             //const products = JSON.parse(AllProducts)
 
             // Lista os produtos adicionados ao carrinho
