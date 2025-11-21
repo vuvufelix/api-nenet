@@ -3,6 +3,7 @@ import ProductController from "./app/controllers/ProductController.js";
 
 const router = new Router();
 
+router.post("/create-checkout-session", ProductController.checkoutSession)
 router.get("/products", ProductController.index);
 router.get("/product/:id", ProductController.show);
 router.get("/product/search/:name", ProductController.search);

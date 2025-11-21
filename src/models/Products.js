@@ -1,6 +1,6 @@
 import { sequelize, Sequelize } from "./db.js";
 
-const Products = sequelize.define("products", {
+const Products = sequelize.define("product", {
     name: {
         type: Sequelize.STRING,
         allowNull: false
