@@ -2,7 +2,7 @@
   "name": "NENET.1",
   "version": "1.0.0",
   "description": "Primeiro projeto 2022 codedrops",
-  "main": "server.js",
+  "main": "product.js",
   "scripts": {
     "dev": "nodemon ./src/server.js"
   },

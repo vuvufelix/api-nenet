@@ -3,7 +3,7 @@ dotenv.config();
 import express from "express";
 import router from "./routes.js";
 import cors from "cors";
-import ServerlessHttp from "serverless-http";
+//import ServerlessHttp from "serverless-http";
 
 class App {
     constructor() {
@@ -22,6 +22,6 @@ class App {
     }
 }
 
-const box = new App().server;
+//const box = new App().server;
 
-export const handler = ServerlessHttp(box);
+//export const handler = ServerlessHttp(box);
