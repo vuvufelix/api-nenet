@@ -2,12 +2,14 @@ import { Sequelize } from "sequelize";
 
 // Conecta o banco de dados
 const sequelize = new Sequelize(
-    "produto",
-    "root",
-    "magrelo123",
+    process.env.DB_NAME,
+    process.env.DB_USER,
+    process.env.DB_PASSWORD,
     {
-        host: "localhost",
-        dialect: "mysql"
+        host: process.env.DB_HOST,
+        dialect: "mysql",
+        port: process.env.DB_PORT,
+        logging: false
     }
 );
 

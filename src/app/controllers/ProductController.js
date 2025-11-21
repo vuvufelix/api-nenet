@@ -29,8 +29,8 @@ class ProductController {
                 payment_method_types: ["card"],
                 mode: "payment",
                 line_items: lineItems,
-                success_url: 'http://localhost:5173/success',
-                cancel_url: 'http://localhost:5173/cancel'
+                success_url: 'https://nenet.vercel.app/success',
+                cancel_url: 'https://nenet.vercel.app/cancel'
             });
 
             res.json({ url: session.url })
