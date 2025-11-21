@@ -4,7 +4,7 @@ import ProductController from "./app/controllers/ProductController.js";
 const router = new Router();
 
 router.get("/", (req, res) => {
-    res.json({message: "API rodando conectado com o clever cloud!"})
+    res.send("API funcionando!")
 })
 router.post("/create-checkout-session", ProductController.checkoutSession)
 router.get("/products", ProductController.index);
