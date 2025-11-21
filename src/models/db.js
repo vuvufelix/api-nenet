@@ -1,3 +1,5 @@
+import dotenv from "dotenv";
+dotenv.config();
 import { Sequelize } from "sequelize";
 
 // Conecta o banco de dados
@@ -9,6 +11,9 @@ const sequelize = new Sequelize(
         host: process.env.DB_HOST,
         dialect: "mysql",
         port: process.env.DB_PORT,
+        dialectOptions: {
+            connectTimeout: 10000,
+        },
         logging: false
     }
 );
