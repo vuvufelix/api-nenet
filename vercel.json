@@ -2,14 +2,14 @@
     "version": 2,
     "builds": [
         {
-            "src": "./src/product.js",
+            "src": "src/product.js",
             "use": "@vercel/node"
         }
     ],
-    "routes": [
+    "rewrites": [
         {
-            "src": "/(.*)",
-            "dest": "./src/product.js"
+            "source": "/(.*)",
+            "destination": "/src/product.js"
         }
     ]
 }
