@@ -2,9 +2,9 @@
   "name": "NENET.1",
   "version": "1.0.0",
   "description": "Primeiro projeto 2022 codedrops",
-  "main": "product.js",
+  "main": "index.js",
   "scripts": {
-    "dev": "nodemon ./src/product.js"
+    "dev": "nodemon ./src/index.js"
   },
   "author": "Vuvu Félix Miguel João",
   "license": "MIT",
